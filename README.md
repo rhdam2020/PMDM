@@ -1,2 +1,2 @@
 # PMDM
-Aplicaciones java para ordenadores
+Aplicaciones java para android
